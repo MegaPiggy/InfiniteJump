@@ -1,0 +1,8 @@
+﻿{
+  "id": "infinitejump",
+  "name": "Infinite Jump", 
+  "author": "MegaPiggy", 
+  "description": "Makes it so you can jump without touching the ground!", 
+  "version":  "1.0",
+  "nosave": true
+}
